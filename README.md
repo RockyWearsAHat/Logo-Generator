@@ -4,11 +4,8 @@ A simple logo generator project that allows you to create custom logos.
 
 # Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 # Installation
@@ -23,6 +20,6 @@ To install and run the Logo Generator, follow these steps:
 
 To start the Logo Generator, run the following command: `npm start`
 
-# Liscense
+# License
 
 This project is liscensed under the MIT liscense
